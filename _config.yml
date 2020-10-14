@@ -1,5 +1,5 @@
 # Site settings
-title: 无伤·学习记录
+title: Wushang2020
 SEOTitle: 记录学习过程
 header-img: img/post-bg-desk.jpg
 email: 18226858285@163.com
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:      globien
+github_username:      wushang2020
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  wushang2020.github.io    #仓库名称
+  owner: wushang2020    #github用户名
+  admin: wushang2020
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "Globien Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
+        href: "https://github.com/globien/wushang2020.github.io/wiki"
     },{
         title: "Globien Community",
-        href: "https://globien.fandom.com/wiki/Globien_Wiki"
+        href: "https://globien.fandom.com/wiki/wushang2020_Wiki"
     },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
